@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "accessories": "الإكسسوارات",
+    "blog": "المدونة",
+    "contact": "اتصل بنا",
+    "browseCategory": "تصفح الفئات",
+    "searchPlaceholder": "ابحث عن المنتجات...",
+    "signIn": "تسجيل الدخول",
+    "register": "التسجيل",
+    "cart": "السلة",
+    "favorites": "المفضلة"
+  },
+  "common": {
+    "inCart": "في السلة",
+    "addToCart": "أضف للسلة",
+    "addToFavorites": "أضف للمفضلة",
+    "removeFromFavorites": "إزالة من المفضلة",
+    "share": "مشاركة",
+    "viewCart": "عرض السلة",
+    "addedToCart": "تمت الإضافة للسلة",
+    "addedToFavorites": "تمت الإضافة للمفضلة",
+    "removedFromFavorites": "تمت الإزالة من المفضلة",
+    "language": "اللغة",
+    "switchToEnglish": "التبديل إلى الإنجليزية",
+    "switchToArabic": "التبديل إلى العربية"
+  },
+  "home": {
+    "categories": "الفئات",
+    "browseAllCategories": "تصفح جميع فئات المنتجات",
+    "discoverProducts": "اكتشف أفضل المنتجات في هذه الفئة"
+  },
+  "cart": {
+    "shoppingCart": "سلة التسوق",
+    "itemsInCart": "منتج في السلة",
+    "cartEmpty": "سلة التسوق فارغة",
+    "shopNow": "تسوق الآن",
+    "orderSummary": "ملخص الطلب",
+    "productsCount": "عدد المنتجات",
+    "subtotal": "المجموع الفرعي",
+    "total": "الإجمالي",
+    "placeOrder": "إتمام الطلب"
+  },
+  "favorites": {
+    "myFavorites": "المفضلة",
+    "favoritesCount": "منتج في قائمة المفضلة",
+    "noFavorites": "لا توجد منتجات في قائمة المفضلة بعد",
+    "browseProducts": "تصفح المنتجات"
+  },
+  "category": {
+    "productsAvailable": "منتج متاح",
+    "discoverCategory": "اكتشف جميع المنتجات في فئة",
+    "noProductsInCategory": "لا توجد منتجات في هذه الفئة"
+  },
+  "search": {
+    "searchResults": "نتائج البحث",
+    "foundProducts": "تم العثور على",
+    "productsFor": "منتج لـ",
+    "noResults": "لم يتم العثور على نتائج لـ",
+    "browseAllProducts": "تصفح جميع المنتجات"
+  },
+  "productDetails": {
+    "relatedProducts": "منتجات مشابهة",
+    "youMayAlsoLike": "قد يعجبك أيضاً"
+  },
+  "footer": {
+    "aboutStore": "عن المتجر",
+    "storeDescription": "متجر إلكتروني متكامل يوفر أفضل المنتجات بأفضل الأسعار. نسعى لتقديم تجربة تسوق ممتازة لعملائنا الكرام.",
+    "shop": "التسوق",
+    "allProducts": "جميع المنتجات",
+    "smartphones": "الهواتف الذكية",
+    "tablets": "الأجهزة اللوحية",
+    "laptops": "أجهزة الكمبيوتر",
+    "support": "الدعم",
+    "helpCenter": "مركز المساعدة",
+    "shipping": "الشحن والتوصيل",
+    "returns": "سياسة الإرجاع",
+    "contactUs": "اتصل بنا",
+    "company": "الشركة",
+    "blog": "المدونة",
+    "careers": "الوظائف",
+    "privacy": "سياسة الخصوصية",
+    "phone": "+20 123 456 7890",
+    "email": "info@redastore.com",
+    "address": "القاهرة، مصر",
+    "allRightsReserved": "جميع الحقوق محفوظة"
+  }
+}
+

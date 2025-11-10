@@ -1,0 +1,92 @@
+.product-slider {
+  padding: clamp(2rem, 5vw, 3.5rem) 0;
+}
+
+.product-slider__header {
+  position: relative;
+  margin-bottom: clamp(1.5rem, 3vw, 2rem);
+  padding-bottom: clamp(1rem, 2vw, 1.25rem);
+  border-bottom: 1px solid var(--border_color);
+}
+
+.product-slider__header::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  right: 0;
+  width: clamp(80px, 10vw, 120px);
+  height: 2px;
+  background: var(--main_color);
+}
+
+.product-slider__title {
+  font-size: clamp(1.5rem, 3.5vw, 2rem);
+  color: var(--main_color);
+  margin: 0 0 clamp(0.5rem, 1.5vw, 0.75rem) 0;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.product-slider__description {
+  font-size: clamp(0.875rem, 1.8vw, 1rem);
+  color: var(--p_color);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.product-slider__swiper {
+  padding: 1rem 0 2rem;
+}
+
+.product-slider__swiper :global(.swiper-button-next),
+.product-slider__swiper :global(.swiper-button-prev) {
+  color: var(--main_color);
+  width: clamp(36px, 4vw, 44px);
+  height: clamp(36px, 4vw, 44px);
+  background: var(--white_color);
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.product-slider__swiper :global(.swiper-button-next):hover,
+.product-slider__swiper :global(.swiper-button-prev):hover {
+  background: var(--main_color);
+  color: var(--white_color);
+  transform: scale(1.1);
+}
+
+.product-slider__swiper :global(.swiper-button-next)::after,
+.product-slider__swiper :global(.swiper-button-prev)::after {
+  font-size: clamp(0.875rem, 2vw, 1rem);
+  font-weight: 700;
+}
+
+.product-slider__swiper :global(.swiper-button-next) {
+  left: 0;
+  right: auto;
+}
+
+.product-slider__swiper :global(.swiper-button-prev) {
+  right: 0;
+  left: auto;
+}
+
+/* RTL Support */
+[dir="rtl"] .product-slider__swiper :global(.swiper-button-next) {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .product-slider__swiper :global(.swiper-button-prev) {
+  right: auto;
+  left: 0;
+}
+
+@media (max-width: 768px) {
+  .product-slider__swiper :global(.swiper-button-next),
+  .product-slider__swiper :global(.swiper-button-prev) {
+    display: none;
+  }
+}
+
