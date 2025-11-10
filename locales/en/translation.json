@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "accessories": "Accessories",
+    "blog": "Blog",
+    "contact": "Contact",
+    "browseCategory": "Browse Category",
+    "searchPlaceholder": "Search for products...",
+    "signIn": "Sign In",
+    "register": "Register",
+    "cart": "Cart",
+    "favorites": "Favorites"
+  },
+  "common": {
+    "inCart": "In Cart",
+    "addToCart": "Add to Cart",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
+    "share": "Share",
+    "viewCart": "View Cart",
+    "addedToCart": "added to Cart",
+    "addedToFavorites": "added To favorites",
+    "removedFromFavorites": "Removed from favorites",
+    "language": "Language",
+    "switchToEnglish": "Switch to English",
+    "switchToArabic": "Switch to Arabic"
+  },
+  "home": {
+    "categories": "Categories",
+    "browseAllCategories": "Browse all product categories",
+    "discoverProducts": "Discover the best products in this category"
+  },
+  "cart": {
+    "shoppingCart": "Shopping Cart",
+    "itemsInCart": "items in cart",
+    "cartEmpty": "Your Cart is empty",
+    "shopNow": "Shop Now",
+    "orderSummary": "Order Summary",
+    "productsCount": "Products Count",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "placeOrder": "Place Order"
+  },
+  "favorites": {
+    "myFavorites": "My Favorites",
+    "favoritesCount": "items in favorites",
+    "noFavorites": "No Favorites Products yet.",
+    "browseProducts": "Browse Products"
+  },
+  "category": {
+    "productsAvailable": "products available",
+    "discoverCategory": "Discover all products in",
+    "noProductsInCategory": "No products in this category"
+  },
+  "search": {
+    "searchResults": "Search Results",
+    "foundProducts": "Found",
+    "productsFor": "products for",
+    "noResults": "No Results found for",
+    "browseAllProducts": "Browse All Products"
+  },
+  "productDetails": {
+    "relatedProducts": "Related Products",
+    "youMayAlsoLike": "You may also like"
+  },
+  "footer": {
+    "aboutStore": "About Store",
+    "storeDescription": "A complete e-commerce store that offers the best products at the best prices. We strive to provide an excellent shopping experience for our valued customers.",
+    "shop": "Shop",
+    "allProducts": "All Products",
+    "smartphones": "Smartphones",
+    "tablets": "Tablets",
+    "laptops": "Laptops",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "shipping": "Shipping & Delivery",
+    "returns": "Return Policy",
+    "contactUs": "Contact Us",
+    "company": "Company",
+    "blog": "Blog",
+    "careers": "Careers",
+    "privacy": "Privacy Policy",
+    "phone": "+20 123 456 7890",
+    "email": "info@redastore.com",
+    "address": "Cairo, Egypt",
+    "allRightsReserved": "All rights reserved"
+  }
+}
+
